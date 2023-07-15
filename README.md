@@ -1,4 +1,4 @@
-Challenge 4 : Analysis using Matplotlib and Pandas.
+Challenge 5 : Analysis using Matplotlib and Pandas.
 This project contains analysis of Pymaceuticals, Inc a new pharmaceutical company that specializes in anti-cancer medications using Matplotlib and Pandas in Jupyter Notebook.
 
 This Repo contains one folder:
